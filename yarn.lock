@@ -9484,6 +9484,11 @@ std-env@^3.0.1:
   resolved "https://registry.yarnpkg.com/std-env/-/std-env-3.2.1.tgz#00e260ec3901333537125f81282b9296b00d7304"
   integrity sha512-D/uYFWkI/31OrnKmXZqGAGK5GbQRPp/BWA1nuITcc6ICblhhuQUPHS5E2GSCVS7Hwhf4ciq8qsATwBUxv+lI6w==
 
+strapi-plugin-cloudflare-pages@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-cloudflare-pages/-/strapi-plugin-cloudflare-pages-0.4.1.tgz#5b6223a3d9a6de361875ac4839b9c3dc633671db"
+  integrity sha512-1W2JQI7ciINrBgvhNqCPh3dMem29mnfsZI0chhX5Sg6aG+oBGaTUNbzLBPaw/sTEZZaFlfO6Sg1/6HTuomsq3Q==
+
 strapi-plugin-vercel-deploy@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/strapi-plugin-vercel-deploy/-/strapi-plugin-vercel-deploy-1.3.1.tgz#07103493c0c82ad03dad8f80807df46fd69bdd59"
