@@ -13,11 +13,10 @@ module.exports = ({ env }) => ({
     'cloudflare-pages': {
         enabled: true,
         config: {
-            deployHook: "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/6ee1187b-287e-4470-9251-ff072b219f0b",
             instances: [
                 {
                 name: "production website",
-                hook_url: 'https://2fcf7a4b.strapi-mysql.pages.dev'
+                hook_url: 'https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/6ee1187b-287e-4470-9251-ff072b219f0b'
                 },
             ]
         }
