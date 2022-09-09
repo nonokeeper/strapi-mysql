@@ -1,4 +1,4 @@
 {
-    "host": "${process.env.APP_HOST || 'strapi-mysql.pages.dev'}",
+    "host": "${process.env.APP_HOST || 'localhost'}",
     "port": "${process.env.NODE_PORT || 1338}"
 }
