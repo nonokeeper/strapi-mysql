@@ -10,6 +10,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@strapi/plugin-content-manager": "^4.4.1",
     "@strapi/plugin-i18n": "4.3.8",
     "@strapi/plugin-users-permissions": "4.3.8",
     "@strapi/strapi": "4.3.8",
@@ -18,8 +19,7 @@
     "strapi-plugin-vercel-deploy": "^1.3.1",
     "yarn": "^1.22.19"
   },
-  "author": { 
-    
+  "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
