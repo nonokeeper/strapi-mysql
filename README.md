@@ -6,6 +6,10 @@ strapi hook on main :
 
 https://api.vercel.com/v1/integrations/deploy/prj_Lr7niS31Mgd7FB3S2T4daaecPmi9/Y2hgTqR5lh
 
+before config plugins.js :
+
+https://api.vercel.com/v1/integrations/deploy/prj_EtObraYAb3MuYM04cwjrBJiW19Hj/2TZY2fqCVu
+
 ### `develop`
 
 Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
